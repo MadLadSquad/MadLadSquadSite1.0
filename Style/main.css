@@ -1,8 +1,18 @@
-body{
+html, body{
     background-color: #1C1C1C;
     color: rgb(255, 255, 255);
-    background-size: auto;
+    background-size: contain;
     font-family: 'Poppins', sans-serif;
+    height: 100%;
+}
+
+main{
+    background-color: #1C1C1C;
+    color: rgb(255, 255, 255);
+    background-size: contain;
+    font-family: 'Poppins', sans-serif;
+    height: 100%;
+
 }
 
 header{
@@ -15,11 +25,11 @@ header{
 a:link{
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    color: white;
+    color: tomato;
 }
 
 a:visited{
-    color: white;
+    color: tomato;
 }
 
 li div{
@@ -97,7 +107,7 @@ nav{
         right:0px;
         height:92vh;
         top:8vh;
-        background-color: #32353b65;
+        background-color: #32353ba6;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -147,10 +157,10 @@ p{
     height: 75vh;
     text-align: center;
     align-items: center;
-    justify-content: center;
+    /*justify-content: center;
     display: flex;
     flex-direction: column;    
-
+*/
 }
 
 .contacts{
@@ -166,6 +176,13 @@ p{
 .contacts li{
     list-style: none;
 }
+
+li{
+    list-style: none;
+    
+}
+
+
 
 .wip-text{
     height: 75vh;
