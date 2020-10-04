@@ -62,17 +62,16 @@ button:hover, a:hover {
 html, body{
     background-color: #1C1C1C;
     color: rgb(255, 255, 255);
-    background-size: contain;
+    background-size: auto;
     font-family: 'Poppins', sans-serif;
     height: 100%;
 }
 
 main{
     color: rgb(255, 255, 255);
-    background-size: contain;
     font-family: 'Poppins', sans-serif;
     height: 100%;
-
+	backgroud-size: auto;
 }
 
 header{
@@ -154,7 +153,6 @@ nav{
 }
 @media screen and (max-width:1024px){
     body{
-        overflow: hidden;
     }
     }
     .nav-links{
