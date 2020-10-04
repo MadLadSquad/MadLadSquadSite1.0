@@ -1,10 +1,33 @@
+.card {
+  border-radius: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: #111;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
 .sidenav {
   height: 100%;
   width: 0;
   position: fixed;
   z-index: 1;
   top: 0;
-  right: 0; 
+  right: 0;
   background-color: #111;
   overflow-x: hidden;
   transition: 0.5s;
@@ -45,7 +68,6 @@ html, body{
 }
 
 main{
-    
     color: rgb(255, 255, 255);
     background-size: contain;
     font-family: 'Poppins', sans-serif;
@@ -119,13 +141,7 @@ nav{
     letter-spacing: 3px;
     font-weight: bold;
     font-size: 14px;
-    transition: all 0.3s ease-in-out;
 }
-
-.nav-links a:hover{
-    color: tomato;
-}
-
 .burger{
     display:none;
     cursor: pointer;
@@ -151,7 +167,7 @@ nav{
         right:0px;
         height:92vh;
         top:8vh;
-        background-color: #32353b65;
+        background-color: #32353ba6;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -235,9 +251,4 @@ li{
     justify-content: center;
     display: flex;
     flex-direction: column;   
-}
-
-/* change color of current page link */
-.current a{
-    color: tomato;
 }
