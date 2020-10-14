@@ -1,4 +1,4 @@
 # MadLadSquadSite1.0
 1.0 version of the MadLad Squad website.  
 
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"><defs><style>.cls-1,.cls-2{fill:#1a1a1a;}.cls-1{stroke:#000;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-5,.cls-6{stroke:#333;}.cls-2{stroke-width:40px;}.cls-3,.cls-5,.cls-6{fill:tomato;}.cls-3{stroke-width:10px;}.cls-4{fill:none;stroke:tomato;stroke-width:20px;}.cls-5,.cls-6{font-size:172px;font-family:Poppins-Medium, Poppins;font-weight:500;}.cls-5{stroke-width:4px;}.cls-6{stroke-width:5px;}</style></defs><rect class="cls-1" width="1080" height="1080"/><circle class="cls-2" cx="540" cy="540" r="359.98"/><path class="cls-3" d="M540,540s-122.19-145.46,0-295.23C540,244.77,479.16,411.19,540,540Z"/><path class="cls-3" d="M540,835.23S600.84,668.81,540,540c0,0,122.19,145.46,0,295.23"/><circle class="cls-4" cx="540" cy="540" r="359.98"/><text class="cls-5" transform="translate(284.42 597.85)">M</text><text class="cls-6" transform="translate(669.74 597.85)">S</text></svg>
+
